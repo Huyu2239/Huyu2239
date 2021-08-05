@@ -12,3 +12,6 @@
 | ------- | ----------------------------------------------------------------- | ------- | ----------------------------------------- | 
 | Twitter | [@Huyu_2239](https://twitter.com/Huyu_2239)                       | Github  | [@Huyu2239](https://github.com/Huyu2239)  | 
 | YouTube | [冬優](https://www.youtube.com/channel/UCYJ6p3qRttSC_7cjxhd0HlQ)  | Discord | Huyu#2239                                 | 
+
+## Discord
+![Discord](https://discord.c99.nl/widget/theme-1/637868010157244449.png)
