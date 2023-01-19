@@ -2,7 +2,7 @@
 # Huyu2239
 
 いろいろしてます  
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Huyu2239&count_private=true&show_icons=true&theme=dark)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Huyu2239)]
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Huyu2239&layout=compact&theme=dark)
 
 
