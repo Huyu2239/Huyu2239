@@ -2,8 +2,8 @@
 # Huyu2239
 
 いろいろしてます  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Huyu2239&count_private=true&show_icons=true&theme=dark)]
-[![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Huyu2239&layout=compact&theme=dark)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huyu2239&show_icons=true&theme=codeSTACKr&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Huyu2239's github stats](https://github-readme-stats.vercel.app/api?username=Huyu2239&show_icons=true&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Accounts
