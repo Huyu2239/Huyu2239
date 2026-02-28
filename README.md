@@ -12,7 +12,7 @@ import datetime
 
 class Human:
     def __init__(self):
-        self.age = 20
+        self.age = 22
         self.name = "Huyu2239"
         self.langs = ["ja_JP", "en_US"]
         self.birthday = datetime.date(2004, 1, 13)
